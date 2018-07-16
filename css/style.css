@@ -425,8 +425,9 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap; }
   .intro-flex .one-third {
-    width: 33.33%;
-    padding: 2em 2em 4em 2em;
+    width: 32%;
+    padding: 1em 1em 4em 1em;
+    margin: .66%;
     position: relative;
     overflow: hidden;
     z-index: 0; }
@@ -454,7 +455,7 @@ h1, h2, h3, h4, h5, h6, figure {
     .intro-flex .one-third .price {
       display: block;
       position: absolute;
-      bototom: 0;
+      bottom: 0;
       left: 2em;
       font-size: 14px;
       background: #DC2F2F;
