@@ -97,12 +97,12 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   z-index: 9;
   margin: 0 auto; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1000px) {
     .colorlib-nav {
       margin: 0; } }
   .colorlib-nav .top-menu {
     padding: 40px 30px; }
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 1000px) {
       .colorlib-nav .top-menu {
         padding: 28px 1em; } }
     #colorlib-logo img {
@@ -111,22 +111,27 @@ h1, h2, h3, h4, h5, h6, figure {
     @media screen and (max-width: 480px) {
     #colorlib-logo img {
       width: 150px;} }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1000px) {
     .colorlib-nav .menu-1 {
       display: none; } }
   .colorlib-nav ul {
     padding: 0;
-    margin: 8px 0 0 0; }
+    margin: 5px -50px 0 0; }
+    .homealign{
+      padding: 0;
+      display: inline-block;
+      margin: 0 -13px 0 0;
+    }
     .colorlib-nav ul li {
       padding: 0;
       margin: 0;
       list-style: none;
       display: inline;
-      font-weight: 400; }
+      font-weight: 500; }
       .colorlib-nav ul li a {
         position: relative;
         font-size: 15px;
-        padding: 30px 12px;
+        padding: 5px;
         color: rgba(255, 255, 255, 0.7);
         -webkit-transition: 0.5s;
         -o-transition: 0.5s;
@@ -1598,7 +1603,7 @@ input[type="text"] {
   width: 44px;
   z-index: 2001;
   border-bottom: none !important; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1000px) {
     .colorlib-nav-toggle {
       display: block; } }
 
