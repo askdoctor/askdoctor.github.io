@@ -1,0 +1,30 @@
+.blog-card{
+}
+.blog-card .photo {
+  height: 90vh;
+}
+.blog-card .description {
+  height: 90vh;
+  padding: 5%
+}
+.blog-card .photo1 {
+  background-image: url(../images/signup.jpg);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center; 
+
+}
+.blog-card .photo2 {
+  background-image: url(../images/img_bg_2.jpg);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center; 
+
+}
+.blog-card .photo3 {
+  background-image: url(../images/img_bg_3.jpg);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center; 
+
+}
