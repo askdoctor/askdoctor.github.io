@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 16/04/2018 01:00
+  	Creation date: 25/07/2018 09:29
   	*/
 
 @font-face {
@@ -27,13 +27,11 @@
   font-style: normal;
 }
 
-.flaticon-swimmer:before { content: "\f100"; }
-.flaticon-meditation:before { content: "\f101"; }
-.flaticon-martial-arts:before { content: "\f102"; }
-.flaticon-gloves:before { content: "\f103"; }
-.flaticon-time:before { content: "\f104"; }
-.flaticon-man:before { content: "\f105"; }
-.flaticon-gym:before { content: "\f106"; }
-.flaticon-weightlifting:before { content: "\f107"; }
-.flaticon-arm:before { content: "\f108"; }
-.flaticon-exercise-2:before { content: "\f109"; }
+.flaticon-headache-1:before { content: "\f100"; }
+.flaticon-baby-boy:before { content: "\f101"; }
+.flaticon-stethoscope:before { content: "\f102"; }
+.flaticon-patient:before { content: "\f103"; }
+.flaticon-headache:before { content: "\f104"; }
+.flaticon-cough:before { content: "\f105"; }
+.flaticon-eye-drops:before { content: "\f106"; }
+.flaticon-hospital-bed:before { content: "\f107"; }
