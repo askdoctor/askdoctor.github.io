@@ -4,7 +4,7 @@
   height: 90vh;
 }
 .blog-card .description {
-  height: 90vh;
+  font-size: 125%;
   padding: 5%
 }
 .blog-card .photo1 {
